@@ -8,8 +8,7 @@ You may work in pairs for this assignment.  So we know whom to credit, both of y
 
 The assignment is due Wednesday October 25th at 1:30am.  You can check it out [here](https://classroom.github.com/assignment-invitations/829adc8487082580d8510e309105e51b).
 
-<img src="img/monkey_computer.jpg" width=600px>
-<b>Your noble adversary.</b>
+<img src="https://github.com/axgao1/Final_Project_DK_AG/blob/master/All%20Cause%20Data%20Availability%20Map.pdf" width=600px>
 
 ## Your Task
 
